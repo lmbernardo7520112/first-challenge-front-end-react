@@ -1,0 +1,26 @@
+/* AmountInput.module.css */
+
+.amountInputContainer {
+    margin-bottom: 20px;
+  }
+  
+  .amountInputLabel {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .amountInput {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .amountInput:focus {
+    outline: none;
+    border-color: #6c5ce7;
+  }
+  
