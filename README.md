@@ -74,7 +74,7 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 
 #### Contact 📧
 
-If you have any questions or suggestions regarding this project, feel free to contact us at [mailto:leonardo.bernardo@professor.pb.gov.br].
+If you have any questions or suggestions regarding this project, feel free to contact us at [leonardo.bernardo@professor.pb.gov.br](mailto:leonardo.bernardo@professor.pb.gov.br).
 
 Thank you for using the Currency Converter! Happy converting! 🎉
 
@@ -150,6 +150,6 @@ Contribuições para este projeto são bem-vindas! Se você gostaria de contribu
 
 #### Contato 📧
 
-Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato conosco em [seu_email@example.com](mailto:leonardo.bernardo@professor.pb.gov.br).
+Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato conosco em [leonardo.bernardo@professor.pb.gov.br](mailto:leonardo.bernardo@professor.pb.gov.br).
 
 Obrigado por usar o Conversor de Moedas! Feliz conversão! 🎉
