@@ -70,11 +70,11 @@ This project relies on the following dependencies:
 
 #### Contributing 🤝
 
-Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md] file.
 
 #### Contact 📧
 
-If you have any questions or suggestions regarding this project, feel free to contact us at [your_email@example.com](mailto:leonardo.bernardo@professor.pb.gov.br).
+If you have any questions or suggestions regarding this project, feel free to contact us at [mailto:leonardo.bernardo@professor.pb.gov.br].
 
 Thank you for using the Currency Converter! Happy converting! 🎉
 
