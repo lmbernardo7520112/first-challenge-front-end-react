@@ -150,6 +150,6 @@ Contribuições para este projeto são bem-vindas! Se você gostaria de contribu
 
 #### Contato 📧
 
-Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato conosco em [leonardo.bernardo@professor.pb.gov.br](mailto:leonardo.bernardo@professor.pb.gov.br).
+Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato conosco em [leonardo.bernardo@professor.pb.gov.br] [lmbernardo752011@gmail.com](mailto:leonardo.bernardo@professor.pb.gov.br).
 
 Obrigado por usar o Conversor de Moedas! Feliz conversão! 🎉
