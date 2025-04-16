@@ -173,7 +173,7 @@ Leonardo M. Bernardo
 *   <a href="mailto:leonardo.bernardo@professor.pb.gov.br">leonardo.bernardo@professor.pb.gov.br</a>
 *   <a href="mailto:lmbernardo752011@gmail.com">lmbernardo752011@gmail.com</a>
 
-Project Link: [https://github.com/<your-username>/<your-repo-name>](https://github.com/<your-username>/<your-repo-name>) *(Replace with actual link)*
+Project Link: [https://github.com/lmbernardo7520112/first-challenge-front-end-react.git](https://github.com/lmbernardo7520112/first-challenge-front-end-react.git)
 
 ---
 
