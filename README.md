@@ -313,20 +313,19 @@ Obrigado por usar o Conversor de Moedas! Feliz conversão! 🎉
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- TODO: Replace placeholders with actual links -->
 [React-shield]: https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&color=8a2be2
 [React-url]: https://reactjs.org/
 [JavaScript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=8a2be2
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[License-shield]: https://img.shields.io/github/license/lmbernardo7520112/first-challenge-front-end-react.git?style=flat-square&color=8a2be2
-[License-url]: https://github.com/github.com/lmbernardo7520112/first-challenge-front-end-react.git/blob/main/LICENSE
-[Contributors-shield]: https://img.shields.io/github/contributors/lmbernardo7520112/first-challenge-front-end-react.git.svg?style=flat-square&color=8a2be2
-[Contributors-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react.git/graphs/contributors
-[Issues-shield]: https://img.shields.io/github/issues/lmbernardo7520112/first-challenge-front-end-react.git.svg?style=flat-square&color=8a2be2
-[Issues-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react.git/issues
-[Forks-shield]: https://img.shields.io/github/forks/lmbernardo7520112/first-challenge-front-end-react.git.svg?style=flat-square&color=8a2be2
-[Forks-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react.git/network/members
-[Stars-shield]: https://img.shields.io/github/stars/lmbernardo7520112/first-challenge-front-end-react.git.svg?style=flat-square&color=8a2be2
-[Stars-url]: https://github.com/<your-username>/<your-repo-name>/stargazers
-[CONTRIBUTING.md]: https://github.com/<your-username>/<your-repo-name>/blob/main/CONTRIBUTING.md
+[License-shield]: https://img.shields.io/github/license/lmbernardo7520112/first-challenge-front-end-react?style=flat-square&color=8a2be2
+[License-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react/blob/main/LICENSE
+[Contributors-shield]: https://img.shields.io/github/contributors/lmbernardo7520112/first-challenge-front-end-react?style=flat-square&color=8a2be2
+[Contributors-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react/graphs/contributors
+[Issues-shield]: https://img.shields.io/github/issues/lmbernardo7520112/first-challenge-front-end-react?style=flat-square&color=8a2be2
+[Issues-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react/issues
+[Forks-shield]: https://img.shields.io/github/forks/lmbernardo7520112/first-challenge-front-end-react?style=flat-square&color=8a2be2
+[Forks-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react/network/members
+[Stars-shield]: https://img.shields.io/github/stars/lmbernardo7520112/first-challenge-front-end-react?style=flat-square&color=8a2be2
+[Stars-url]: https://github.com/lmbernardo7520112/first-challenge-front-end-react/stargazers
+[CONTRIBUTING.md]: https://github.com/lmbernardo7520112/first-challenge-front-end-react/blob/main/CONTRIBUTING.md
 ```
